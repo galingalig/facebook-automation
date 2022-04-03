@@ -39,6 +39,6 @@ class FacebookLogin:
 
 if __name__ == "__main__":
     fb_login = FacebookLogin(
-        email="youremail", password="yourpassword", browser="Firefox"
+        email="galingalig@yahoo.com", password="ALIG062558", browser="Chrome"
     )  # Browser =  your browser-        chrome/ FIrefox
     fb_login.login()
